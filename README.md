@@ -32,7 +32,7 @@ Pela IDE (IntelliJ IDEA / Eclipse):
 
 Clone o repositório ou abra a pasta do projeto.
 Execute o método main de src/controller/App.java.
-Pelo terminal: bash git clone https://github.com/felipescdev/Sistema-de-Academia-POO.git cd Sistema-de-Academia-POO
+Pelo terminal: bash git clone https://github.com/GuilhermeKarandeAlmeida/Sistema-de-Academia-POO
 
 compilar
 javac -d out src/exceptions/.java src/interfaces/.java src/model/.java src/view/.java src/controller/*.java
