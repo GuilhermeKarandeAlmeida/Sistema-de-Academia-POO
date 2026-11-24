@@ -5,7 +5,7 @@ Projeto prático da disciplina Programação Orientada a Objetos (Prof. Me. Marc
 
 Tema escolhido: nº 09 – Sistema de Academia e Fichas de Treino.
 
-Autores Felipe Sousa Costa – RA: 1630482523030 Guilherme Karan de Almeida – RA:
+Autores Felipe Sousa Costa – RA: 1630482523030 Guilherme Karan de Almeida – RA:1630482523018
 
 Funcionalidades
 
